@@ -1,7 +1,3 @@
-# EcommerceSystem
-Sure! Here's a summary for your `EcommerceSystem` code to include in your README file:
-
----
 
 ## EcommerceSystem
 
